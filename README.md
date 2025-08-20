@@ -17,7 +17,9 @@
 As my favorite game character **Illidan Stormrage** once said:  
 
 **"You are not prepared!"**  
-
+<br>
+<br>
+<br>
 <p align="center">
   <img src="https://33.media.tumblr.com/7b6ab2d4f3342bce9834b3a5a0f2fe6c/tumblr_my2f6a4zEg1sla1tdo1_500.gif" width="400" alt="Illidan Stormrage">
 </p>
@@ -41,7 +43,9 @@ As my favorite game character **Illidan Stormrage** once said:
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
+<br>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denizugur&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizugur&layout=compact&theme=radical" alt="langs" height="150"/>
