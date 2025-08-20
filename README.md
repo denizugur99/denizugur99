@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deniz Uğur</h1>
-<h3 align="center">A passionate Developer from Türkiye</h3>
+<h3 align="center">A passionate Developer from Türkiye 🇹🇷</h3>
 
 
 
