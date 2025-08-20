@@ -12,10 +12,7 @@
 - 💻 Worked on **Backend projects** with **C#, .NET, SQL, MongoDB, Redis, RabbitMQ**  
 - 🌐 Currently focusing on **Frontend Development** to become a more versatile developer   
 - 📫 How to reach me: **denougur0@gmail.com**
--  <a href="https://www.linkedin.com/in/denougur/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/denougur/)  
 ⚡ I believe that in coding, the more we learn, the more we realize how little we actually know.  
 As my favorite game character **Illidan Stormrage** once said:  
 
