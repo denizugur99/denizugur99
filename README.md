@@ -19,7 +19,7 @@ As my favorite game character **Illidan Stormrage** once said:
 **"You are not prepared!"**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kFFDDH6Fr0gK4/giphy.gif" width="400" alt="Illidan Stormrage">
+  <img src="https://33.media.tumblr.com/7b6ab2d4f3342bce9834b3a5a0f2fe6c/tumblr_my2f6a4zEg1sla1tdo1_500.gif" width="400" alt="Illidan Stormrage">
 </p>
 
 ---
