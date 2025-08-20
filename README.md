@@ -54,5 +54,9 @@ As my favorite game character **Illidan Stormrage** once said:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denizugur&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizugur&layout=compact&theme=radical" alt="langs" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denizugur&theme=radical" alt="Activity Graph"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=denizugur&theme=radical&row=1&column=6" alt="Trophies"/>
+
+
+
 </p>
