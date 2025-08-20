@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deniz Uğur</h1>
-<h3 align="center">A passionate Developer from Türkiye 🇹🇷</h3>
+<h3 align="center">A passionate Developer from Türkiye <img src="https://em-content.zobj.net/thumbs/240/apple/354/flag-turkey_1f1f9-1f1f7.png" width="25"/> </h3>
+
 
 
 
