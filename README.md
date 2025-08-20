@@ -12,8 +12,10 @@
 - 💻 Worked on **Backend projects** with **C#, .NET, SQL, MongoDB, Redis, RabbitMQ**  
 - 🌐 Currently focusing on **Frontend Development** to become a more versatile developer   
 - 📫 How to reach me: **denougur0@gmail.com**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/denougur/)  
-⚡ I believe that in coding, the more we learn, the more we realize how little we actually know.  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/denougur/)
+
+  <br>
+⚡ I believe that in coding, the more we learn, the more we realize how little we actually know.
 As my favorite game character **Illidan Stormrage** once said:  
 
 **"You are not prepared!"**  
